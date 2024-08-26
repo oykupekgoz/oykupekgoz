@@ -13,9 +13,18 @@ A senior computer science student from Sabanci Univeristy/Istanbul/Turkey
 - 💬 Ask me about AI, Data Science, Machine Learning, and the latest trends in technology and innovation.
 - 📫 How to reach me: oykupekgoz@sabanciuniv.edu
 
+
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/öykü-pekgöz-138559234/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://instagram.com/oykupekgoz_)
+<p align="left">
+  <a href="https://www.linkedin.com/in/öykü-pekgöz-138559234/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/oykupekgoz_">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 
 ## Technologies:
@@ -26,12 +35,17 @@ A senior computer science student from Sabanci Univeristy/Istanbul/Turkey
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 
-## Most Used Languages:
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) Python
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) C++
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) Java
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) SQL
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) C
+
+=## Most Used Languages:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
+
+
 
 
 ## Pinned Projects:
