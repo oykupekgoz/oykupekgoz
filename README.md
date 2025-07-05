@@ -1,14 +1,13 @@
 
 # Hi 👋, I'm Öykü
-A senior computer science student from Sabanci Univeristy/Istanbul/Turkey
+A graduate computer science student from Sabanci Univeristy/Istanbul/Turkey
 
 ![GitHub followers](https://img.shields.io/github/followers/oykupekgoz?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/oykupekgoz?label=Stars&style=social)
 
 
 ## About Me
-- 🔭 I’m currently working on Route Management Project for DFDS company as an intern project.
-- 🌱 I’m currently learning Database Management Systems, advance Python and SQL scripts to handle database pipeline. My skills mostly originated on Database, Data Science and Machine Learning.
+- 🔭 I’m currently seeking job oppurtunities mostly on Data, Software Development and AI.
 - 👯 I’m looking to collaborate on AI, Data Science, and Machine Learning projects, as well as exploring new and innovative trends in the tech industry.
 - 💬 Ask me about AI, Data Science, Machine Learning, and the latest trends in technology and innovation.
 - 📫 How to reach me: oykupekgoz@sabanciuniv.edu
@@ -49,6 +48,11 @@ A senior computer science student from Sabanci Univeristy/Istanbul/Turkey
 
 
 ## Pinned Projects:
+### SUFeedback - Sabancı University Course Feedback Platform
+- **Institution:** Sabancı University, Graduation Project
+- **Date:** Jun. 2024
+- **Description:** Developed a web-based feedback platform for Sabancı University students to anonymously rate and comment on courses and instructors. The platform enables students to share experiences, provides sentiment analysis of reviews, and offers filtering options by department, instructor, or rating.
+
 ### 🚚 Route Optimisation and Yard Management Systems' ETL process for DFDS
 - **Institution:** DFDS, Internship Project
 - **Date:** Ongoing
@@ -72,7 +76,7 @@ A senior computer science student from Sabanci Univeristy/Istanbul/Turkey
 ### 🌍 SuSocial: Social Networking and Business Platform
 - **Institution:** Sabanci University, Istanbul, Turkey
 - **Date:** Jan. 2024
-- **Description:** Created a comprehensive social networking and business platform aimed at connecting students and professionals within the Sabanci University community.
+- **Description:** Created a comprehensive social networking and business platform using Java Spring aimed at connecting students and professionals within the Sabanci University community.
 
 ### 🏨 Hotel Management System
 - **Institution:** Sabanci University, Istanbul, Turkey
